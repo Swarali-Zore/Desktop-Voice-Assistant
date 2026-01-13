@@ -1,4 +1,4 @@
-# Smart Voice Assistant using Python
+# Desktop Voice Assistant using Python
 
 ## Overview
 
